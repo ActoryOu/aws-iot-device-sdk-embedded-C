@@ -1,6 +1,7 @@
 {
   "name": "AWS IoT Device SDK for Embedded C",
   "releases": [
+    "2099.00.01",
     "202108.00",
     "202103.00",
     "202012.00",
